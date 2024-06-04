@@ -6,7 +6,7 @@
 
 I'm currently studying at the University of the Philippines Visayas as a Computer Science Student. 
 
-What I've learned so far: 
+##What I've learned so far: 
 ###Languages, Frameworks and Markups:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
