@@ -2,7 +2,7 @@
 
 #### My name is Laviele, but you can call me viele. 
 
-**`Aspiring Developer, Game Designer and UI/UX Designer`**
+**`Aspiring Business Analyst, Data Scientist and Software Engineer`**
 
 #### I'm a Computer Science graduate at the University of the Philippines Visayas and currently studying Business Analytics at Deakin University in Burwood, Melbourne.
 
